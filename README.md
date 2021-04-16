@@ -1,6 +1,6 @@
 # Machine Learning practical work
 
 Hi There!
-Tasks are provided by:
 
-+ Udacity: "Intro to Machine Learning with PyTorch"
+Here are Problem solving and analysis of the topics of the Udacity course "Intro to Machine Learning with PyTorch".
+Topic names are the same as folder names.
